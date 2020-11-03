@@ -1,2 +1,3 @@
-# get-google-places
+# Get Google Places
+
 Search for the address of all places with an area, find them on a map, and create a file of their address
